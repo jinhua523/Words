@@ -1,5 +1,5 @@
 # 咒术回战
-Jujutsu.Kaisen.S02(?=.*ADWeb) => Jujutsu.Kaisen.S01 && S01 <> 2023 >> EP+23
+Jujutsu.Kaisen.S02(?=.*ADWeb) => Jujutsu.Kaisen.S01 && S01 <> 2023 >> EP+24
 Jujutsu.Kaisen.S03(?=.*ADWeb) => Jujutsu.Kaisen.S01 && S01 <> 2026 >> EP+47
 # 葬送的芙莉莲 第二季
 Sousou.no.Frieren.S02(?=.*ADWeb) => Sousou.no.Frieren.S01 && S01 <> 2026 >> EP+28
@@ -481,4 +481,5 @@ S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
 (?i)\bSakurato\b|樱都字幕组|桜都字幕组|桜都 => 桜都字幕组
 (?i)\bHaruhana\b => ❀拨雪寻春❀
 (?<=S\d{2}E\d{2}).+(?=(2160|1080)p.+NTb) =>
+
 
